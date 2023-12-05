@@ -45,9 +45,11 @@ These instructions will get you a copy of the project up and running on your loc
     ```bash
     python manage.py runserver
 
-### Running with Docker (optional)
+### Running with Docker (optional):
 
     ```bash
     docker-compose build
     docker-compose up
+
+### Postman Collections:
 
